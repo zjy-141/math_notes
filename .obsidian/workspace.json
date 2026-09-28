@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析总结/定理用法/有限覆盖.md",
+                "file": "Latex指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有限覆盖"
+              "title": "Latex指南"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿.md",
+                "file": "数学分析总结/解题方法/构造法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿"
+              "title": "构造法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学分析总结/定理用法/有限覆盖.md",
+                "file": "数学分析总结/解题方法/构造法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,14 +205,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ba911e921f25b95",
+  "active": "376e57ad735b336b",
   "lastOpenFiles": [
+    "数学分析总结/解题方法/介值定理.md",
     "草稿.md",
-    "数学分析总结/定理用法/有限覆盖.md",
-    "抽象代数总结/定义汇总/01定义.md",
     "Latex指南.md",
-    "数学分析总结/定理用法",
+    "数学分析总结/解题方法/有限覆盖.md",
+    "数学分析总结/解题方法/构造法.md",
     "README.md",
+    "抽象代数总结/定义汇总/01定义.md",
+    "数学分析总结/解题方法",
     "抽象代数总结/定义汇总",
     "抽象代数总结"
   ]
