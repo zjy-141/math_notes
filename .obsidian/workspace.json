@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "抽象代数总结/群的同态定理.md",
+                "file": "草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,10 +247,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cc658ca0f9afe4fe",
+  "active": "c6d9ba26befc41cb",
   "lastOpenFiles": [
-    "抽象代数总结/小结论.md",
     "抽象代数总结/群的同态定理.md",
+    "抽象代数总结/小结论.md",
     "Latex指南.md",
     "草稿.md",
     "抽象代数总结/定义汇总/01定义.md",
