@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "786f1b0d0c9f61bc",
+        "id": "157a2c37ce74d646",
         "type": "tabs",
         "children": [
           {
-            "id": "cc658ca0f9afe4fe",
+            "id": "baa9bd9687414d87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "抽象代数总结/常见群环域.md",
+                "file": "Latex指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常见群环域"
+              "title": "Latex指南"
             }
           },
           {
-            "id": "827f7c036b2887e2",
+            "id": "75be8fffc45cabaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "抽象代数总结/定义汇总/01定义.md",
+                "file": "数学分析总结/积分/重积分的变量替换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01定义"
-            }
-          },
-          {
-            "id": "597a01c6e219cf11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "抽象代数总结/群.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "群"
+              "title": "重积分的变量替换"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "抽象代数总结/群.md",
+                "file": "数学分析总结/积分/重积分的变量替换.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,8 +205,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "597a01c6e219cf11",
+  "active": "75be8fffc45cabaf",
   "lastOpenFiles": [
+    "Latex指南.md",
+    "数学分析总结/积分/重积分的变量替换.md",
+    "README.md",
+    "数学分析总结/积分/微积分公式.md",
+    "数学分析总结/点集.md",
+    "数学分析总结/对比.md",
+    "数学分析总结/符号交换条件.md",
+    "抽象代数总结/常见群环域.md",
     "抽象代数总结/定义汇总/01定义.md",
     "抽象代数总结/群.md",
     "草稿.md",
@@ -230,7 +224,6 @@
     "常微分方程/定义汇总/01. 定义.md",
     "抽象代数总结/定义汇总/02_课本定理.md",
     "口语.md",
-    "数学分析总结/积分/微积分公式.md",
     "数学分析总结/积分/伽马函数.md",
     "数学分析总结/积分/积分的一致收敛.md",
     "数学分析总结/积分/定积分.md",
@@ -239,14 +232,7 @@
     "常微分方程/定义汇总/02. 全微分方程.md",
     "常微分方程/解题方法/凑微分法.md",
     "常微分方程/解题方法/全微分方程的积分因子.md",
-    "Latex指南.md",
-    "README.md",
-    "抽象代数总结/常见群环域.md",
     "数学分析总结/积分/积分的收敛.md",
-    "数学分析总结/02解题手册.md",
-    "数学分析总结/点集.md",
-    "数学分析总结/对比.md",
-    "数学分析总结/符号交换条件.md",
     "抽象代数总结/习题",
     "常微分方程/解题方法",
     "常微分方程/定义汇总",
