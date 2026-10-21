@@ -150,33 +150,33 @@
 
 ## 七、特殊函数与符号
 
-| 符号              | 命令              | 示例代码                   | 示例渲染                 |
-| --------------- | --------------- | ---------------------- | -------------------- |
-| $\infty$        | `\infty`        | `$x \to \infty$`       | $x \to \infty$       |
-| $\nabla$        | `\nabla`        | `$\nabla f$`           | $\nabla f$           |
-| $\Delta$        | `\Delta`        | `$\Delta u = 0$`       | $\Delta u = 0$       |
-| $\angle$        | `\angle`        | `$\angle ABC$`         | $\angle ABC$         |
-| $\perp$         | `\perp`         | `$a \perp b$`          | $a \perp b$          |
-| $\parallel$     | `\parallel`     | `$l \parallel m$`      | $l \parallel m$      |
-| $90^\circ$      | `^\circ`        | `$90^\circ$`           | $90^\circ$           |
-| $\cdots$        | `\cdots`        | `$1, 2, 3, \cdots, n$` | $1, 2, 3, \cdots, n$ |
-| $\dots$         | `\dots`         | `$1, 2, 3, \dots, n$`  | $1, 2, 3, \dots, n$  |
-| $\vdots$        | `\vdots`        | `$\vdots$`             | $\vdots$             |
-| $\ddots$        | `\ddots$`       | `$\ddots$`             | $\ddots$             |
-| $\hat{a}$       | `\hat{a}`       | `$\hat{a}$`            | $\hat{a}$            |
-| $\bar{a}$       | `\bar{a}`       | `$\bar{a}$`            | $\bar{a}$            |
-| $\overline{a}$  | `\overline{a}`  | `$\overline{a}$`       | $\overline{a+b}$     |
-| $\underline{a}$ | `\underline{a}` | `$\underline{a}$`      | $\underline{a-b}$    |
-| $\tilde{a}$     | `\tilde{a}`     | `$\tilde{a}$`          | $\tilde{a}$          |
-| $\vec{a}$       | `\vec{a}`       | `$\vec{a}$`            | $\vec{a}$            |
-| $\dot{a}$       | `\dot{a}$`      | `$\dot{a}$`            | $\dot{a}$            |
-| $\ddot{a}$      | `\ddot{a}`      | `$\ddot{a}$`           | $\ddot{a}$           |
-| $\{$ `$a$` $\}$ | `\{` 和 `\}`     | `$\{a\}$`              | $\{a\}$              |
-| $\backslash$    | `\backslash`    | `$a \backslash b$`     | $a \backslash b$     |
-| $\#$            | `\#`            | `$\#$`                 | $\#$                 |
-| `\%`            | `\%`            | `$50\%$`               | $50\%$               |
-| $\&$            | `\&`            | `$a \& b$`             | $a \& b$             |
-| $\_$            | `\_`            | `$a\_b$`               | $a\_b$               |
+| 符号                     | 命令                        | 示例代码                           | 示例渲染                        |
+| ---------------------- | ------------------------- | ------------------------------ | --------------------------- |
+| $\infty$               | `\infty`                  | `$x \to \infty$`               | $x \to \infty$              |
+| $\nabla$               | `\nabla`                  | `$\nabla f$`                   | $\nabla f$                  |
+| $\Delta$               | `\Delta`                  | `$\Delta u = 0$`               | $\Delta u = 0$              |
+| $\angle$               | `\angle`                  | `$\angle ABC$`                 | $\angle ABC$                |
+| $\perp$                | `\perp`                   | `$a \perp b$`                  | $a \perp b$                 |
+| $\parallel$            | `\parallel`               | `$l \parallel m$`              | $l \parallel m$             |
+| $90^\circ$             | `^\circ`                  | `$90^\circ$`                   | $90^\circ$                  |
+| $\cdots$               | `\cdots`                  | `$1, 2, 3, \cdots, n$`         | $1, 2, 3, \cdots, n$        |
+| $\dots$                | `\dots`                   | `$1, 2, 3, \dots, n$`          | $1, 2, 3, \dots, n$         |
+| $\vdots$               | `\vdots`                  | `$\vdots$`                     | $\vdots$                    |
+| $\ddots$               | `\ddots$`                 | `$\ddots$`                     | $\ddots$                    |
+| $\hat{a}$              | `\hat{a}`                 | `$\hat{a}$`                    | $\hat{a}$                   |
+| $\bar{a}$              | `\bar{a}`                 | `$\bar{a}$`                    | $\bar{a}$                   |
+| $\overline{a}$         | `\overline{a}`            | `$\overline{a}$`               | $\overline{a+b}$            |
+| $\underline{a}$        | `\underline{a}`           | `$\underline{a}$`              | $\underline{a-b}$           |
+| $\tilde{a}$            | `\tilde{a}`               | `$\tilde{a}$`                  | $\tilde{a}$                 |
+| $\vec{a}$              | `\vec{a}`                 | `$\vec{a}$`                    | $\vec{a}$                   |
+| $\dot{a}$              | `\dot{a}$`                | `$\dot{a}$`                    | $\dot{a}$                   |
+| $\ddot{a}$             | `\ddot{a}`                | `$\ddot{a}$`                   | $\ddot{a}$                  |
+| $\{$ `$a$` $\}$        | `\{` 和 `\}`               | `$\{a\}$`                      | $\{a\}$                     |
+| $\backslash \setminus$ | `\backslash`或 `\setminus` | `$a \backslash b \setminus c$` | $a \backslash b\setminus c$ |
+| $\#$                   | `\#`                      | `$\#$`                         | $\#$                        |
+| `\%`                   | `\%`                      | `$50\%$`                       | $50\%$                      |
+| $\&$                   | `\&`                      | `$a \& b$`                     | $a \& b$                    |
+| $\_$                   | `\_`                      | `$a\_b$`                       | $a\_b$                      |
 
 ---
 
