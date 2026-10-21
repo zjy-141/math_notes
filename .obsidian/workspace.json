@@ -35,8 +35,7 @@
               "title": "重积分的变量替换"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学分析总结/积分/重积分的变量替换.md",
+                "file": "Latex指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,11 +204,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75be8fffc45cabaf",
+  "active": "baa9bd9687414d87",
   "lastOpenFiles": [
+    "数学分析总结/积分/重积分的变量替换.md",
     "数学分析总结/符号交换条件.md",
     "Latex指南.md",
-    "数学分析总结/积分/重积分的变量替换.md",
     "README.md",
     "数学分析总结/积分/微积分公式.md",
     "数学分析总结/点集.md",

@@ -205,6 +205,7 @@
 | 效果/符号                    | 意义                           | 命令                    | 示例代码                       |
 | ------------------------ | ---------------------------- | --------------------- | -------------------------- |
 | $\text{such that } x>0$  | 在数学公式中插入**普通文本**             | `\text{...}`          | `$\text{such that } x>0$`  |
+| $a\qquad b$              | 在数学公式中插入**空格**               | `\quad,\qquad`        | `$a\qquad b$`              |
 | $\operatorname{span}(S)$ | 定义**正体算子名称**                 | `\operatorname{...}`  | `$\operatorname{span}(S)$` |
 | $\mathbf{A}$             | 将字母或数字设为**粗体**（罗马体）          | `\mathbf{x}`          | `$\mathbf{A}$`             |
 | $\boldsymbol{\alpha}$    | 将**希腊字母**或符号设为粗体             | `\boldsymbol{\alpha}` | `$\boldsymbol{\alpha}$`    |
