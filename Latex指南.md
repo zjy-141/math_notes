@@ -200,6 +200,7 @@
 | $\sum\limits_{i=1}^{n}$      | `\limits_{}^{}`        | `$\sum\limits_{i=1}^{n}$`      | $\sum\limits_{i=1}^{n}x_i$   |
 | $\underset{k=1}\oplus$       | `\underset`            | `$\underset{k=1}\oplus$`       | $\underset{k=1}\oplus$       |
 | $\overset{n}\oplus$          | `\overset`             | $\overset{n}\oplus$            | $\overset{n}\oplus$          |
+| $\langle \rangle$            | `\langle \rangle`      | `$\langle g\rangle$`           | $\langle g\rangle$           |
 
 ---
 
