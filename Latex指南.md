@@ -2,19 +2,21 @@
 
 ## 一、关系与比较符号
 
-| 符号        | 命令             | 示例代码                                  | 示例渲染                                |
-| --------- | -------------- | ------------------------------------- | ----------------------------------- |
-| $=$       | `=`            | `$a = b$`                             | $a = b$                             |
-| $\neq$    | `\neq` 或 `\ne` | `$a \neq b$`                          | $a \neq b$                          |
-| $\approx$ | `\approx`      | `$x \approx 1$`                       | $x \approx 1$                       |
-| $\equiv$  | `\equiv`       | `$A \equiv B$`                        | $A \equiv B$                        |
-| $<$       | `<`            | `$x < y$`                             | $x < y$                             |
-| $>$       | `>`            | `$x > y$`                             | $x > y$                             |
-| $\le$     | `\le` 或 `\leq` | `$a \le b$`                           | $a \le b$                           |
-| $\ge$     | `\ge` 或 `\geq` | `$a \ge b$`                           | $a \ge b$                           |
-| $\sim$    | `\sim`         | `$X \sim Y$`                          | $X \sim Y$                          |
-| $\cong$   | `\cong`        | `$\triangle ABC \cong \triangle DEF$` | $\triangle ABC \cong \triangle DEF$ |
-| $\propto$ | `\propto`      | `$y \propto x$`                       | $y \propto x$                       |
+| 符号               | 命令               | 示例代码                                  | 示例渲染                                |
+| ---------------- | ---------------- | ------------------------------------- | ----------------------------------- |
+| $=$              | `=`              | `$a = b$`                             | $a = b$                             |
+| $\neq$           | `\neq` 或 `\ne`   | `$a \neq b$`                          | $a \neq b$                          |
+| $\approx$        | `\approx`        | `$x \approx 1$`                       | $x \approx 1$                       |
+| $\equiv$         | `\equiv`         | `$A \equiv B$`                        | $A \equiv B$                        |
+| $<$              | `<`              | `$x < y$`                             | $x < y$                             |
+| $>$              | `>`              | `$x > y$`                             | $x > y$                             |
+| $\le$            | `\le` 或 `\leq`   | `$a \le b$`                           | $a \le b$                           |
+| $\ge$            | `\ge` 或 `\geq`   | `$a \ge b$`                           | $a \ge b$                           |
+| $\sim$           | `\sim`           | `$X \sim Y$`                          | $X \sim Y$                          |
+| $\cong$          | `\cong`          | `$\triangle ABC \cong \triangle DEF$` | $\triangle ABC \cong \triangle DEF$ |
+| $\propto$        | `\propto`        | `$y \propto x$`                       | $y \propto x$                       |
+| $\triangleleft$  | `\triangleleft`  | `$\triangleleft$`                     | $A \triangleleft B$                 |
+| $\triangleright$ | `\triangleright` | `$\triangleright$`                    | $A \triangleright B$                |
 
 ---
 
@@ -127,6 +129,7 @@
 | $\mathbb{Q}$                | `\mathbb{Q}`                | `$\mathbb{Q}$`             | $\mathbb{Q}$             |
 | $\mathbb{R}$                | `\mathbb{R}`                | `$\mathbb{R}$`             | $\mathbb{R}$             |
 | $\mathbb{C}$                | `\mathbb{C}`                | `$\mathbb{C}$`             | $\mathbb{C}$             |
+
 
 ---
 
