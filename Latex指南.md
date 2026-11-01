@@ -8,6 +8,7 @@
 | $\neq$           | `\neq` 或 `\ne`   | `$a \neq b$`                          | $a \neq b$                          |
 | $\approx$        | `\approx`        | `$x \approx 1$`                       | $x \approx 1$                       |
 | $\equiv$         | `\equiv`         | `$A \equiv B$`                        | $A \equiv B$                        |
+| $\not\equiv$     | `\not\equiv`     | `$\not\equiv$`                        | $A\not\equiv B$                     |
 | $<$              | `<`              | `$x < y$`                             | $x < y$                             |
 | $>$              | `>`              | `$x > y$`                             | $x > y$                             |
 | $\le$            | `\le` 或 `\leq`   | `$a \le b$`                           | $a \le b$                           |
