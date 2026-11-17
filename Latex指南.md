@@ -166,16 +166,16 @@
 | $\cdots$               | `\cdots`                  | `$1, 2, 3, \cdots, n$`         | $1, 2, 3, \cdots, n$        |
 | $\dots$                | `\dots`                   | `$1, 2, 3, \dots, n$`          | $1, 2, 3, \dots, n$         |
 | $\vdots$               | `\vdots`                  | `$\vdots$`                     | $\vdots$                    |
-| $\ddots$               | `\ddots$`                 | `$\ddots$`                     | $\ddots$                    |
+| $\ddots$               | `\ddots`                  | `$\ddots$`                     | $\ddots$                    |
 | $\hat{a}$              | `\hat{a}`                 | `$\hat{a}$`                    | $\hat{a}$                   |
 | $\bar{a}$              | `\bar{a}`                 | `$\bar{a}$`                    | $\bar{a}$                   |
 | $\overline{a}$         | `\overline{a}`            | `$\overline{a}$`               | $\overline{a+b}$            |
 | $\underline{a}$        | `\underline{a}`           | `$\underline{a}$`              | $\underline{a-b}$           |
 | $\tilde{a}$            | `\tilde{a}`               | `$\tilde{a}$`                  | $\tilde{a}$                 |
 | $\vec{a}$              | `\vec{a}`                 | `$\vec{a}$`                    | $\vec{a}$                   |
-| $\dot{a}$              | `\dot{a}$`                | `$\dot{a}$`                    | $\dot{a}$                   |
+| $\dot{a}$              | `\dot{a}`                 | `$\dot{a}$`                    | $\dot{a}$                   |
 | $\ddot{a}$             | `\ddot{a}`                | `$\ddot{a}$`                   | $\ddot{a}$                  |
-| $\{$ `$a$` $\}$        | `\{` 和 `\}`               | `$\{a\}$`                      | $\{a\}$                     |
+| $\{\}$                 | `\{` , `\}`               | `$\{a\}$`                      | $\{a\}$                     |
 | $\backslash \setminus$ | `\backslash`或 `\setminus` | `$a \backslash b \setminus c$` | $a \backslash b\setminus c$ |
 | $\#$                   | `\#`                      | `$\#$`                         | $\#$                        |
 | $\%$                   | `\%`                      | `$50\%$`                       | $50\%$                      |
