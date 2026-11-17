@@ -186,22 +186,23 @@
 
 ## 八、上下标与括号自适应
 
-| 效果/符号                        | 命令                     | 示例代码                           | 示例渲染                         |
-| ---------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
-| $x^2$                        | `^`                    | `$x^{2}$`                      | $x^{2}$                      |
-| $x_i$                        | `_`                    | `$x_i$`                        | $x_i$                        |
-| $A_{ij}^{k}$                 | `^{}_{}`               | `$A_{ij}^{k}$`                 | $A_{ij}^{k}$                 |
-| $\left(\frac{a}{b}\right)$   | `\left(` … `\right)`   | `$\left(\frac{a}{b}\right)$`   | $\left(\frac{a}{b}\right)$   |
-| $\left\{\frac{a}{b}\right\}$ | `\left\{` … `\right\}` | `$\left\{\frac{a}{b}\right\}$` | $\left\{\frac{a}{b}\right\}$ |
-| $\left[\frac{a}{b}\right]$   | `\left[` … `\right]`   | `$\left[\frac{a}{b}\right]$`   | $\left[\frac{a}{b}\right]$   |
-| $\lvert x \rvert$            | `\lvert` … `\rvert`    | `$\lvert -3 \rvert = 3$`       | $\lvert -3 \rvert = 3$       |
-| $\lVert \vec{v} \rVert$      | `\lVert` … `\rVert`    | `$\lVert \vec{v} \rVert$`      | $\lVert \vec{v} \rVert$      |
-| $\lceil x \rceil$            | `\lceil` … `\rceil`    | `$\lceil x \rceil$`            | $\lceil x \rceil$            |
-| $\lfloor x \rfloor$          | `\lfloor` … `\rfloor$` | `$\lfloor x \rfloor$`          | $\lfloor x \rfloor$          |
-| $\sum\limits_{i=1}^{n}$      | `\limits_{}^{}`        | `$\sum\limits_{i=1}^{n}$`      | $\sum\limits_{i=1}^{n}x_i$   |
-| $\underset{k=1}\oplus$       | `\underset`            | `$\underset{k=1}\oplus$`       | $\underset{k=1}\oplus$       |
-| $\overset{n}\oplus$          | `\overset`             | $\overset{n}\oplus$            | $\overset{n}\oplus$          |
-| $\langle \rangle$            | `\langle \rangle`      | `$\langle g\rangle$`           | $\langle g\rangle$           |
+| 效果/符号                          | 命令                     | 示例代码                           | 示例渲染                                       |
+| ------------------------------ | ---------------------- | ------------------------------ | ------------------------------------------ |
+| $x^2$                          | `^`                    | `$x^{2}$`                      | $x^{2}$                                    |
+| $x_i$                          | `_`                    | `$x_i$`                        | $x_i$                                      |
+| $A_{ij}^{k}$                   | `^{}_{}`               | `$A_{ij}^{k}$`                 | $A_{ij}^{k}$                               |
+| $\left(\frac{a}{b}\right)$     | `\left(` … `\right)`   | `$\left(\frac{a}{b}\right)$`   | $\left(\frac{a}{b}\right)$                 |
+| $\left\{\frac{a}{b}\right\}$   | `\left\{` … `\right\}` | `$\left\{\frac{a}{b}\right\}$` | $\left\{\frac{a}{b}\right\}$               |
+| $\left[\frac{a}{b}\right]$     | `\left[` … `\right]`   | `$\left[\frac{a}{b}\right]$`   | $\left[\frac{a}{b}\right]$                 |
+| $\lvert x \rvert$              | `\lvert` … `\rvert`    | `$\lvert -3 \rvert = 3$`       | $\lvert -3 \rvert = 3$                     |
+| $\lVert \vec{v} \rVert$        | `\lVert` … `\rVert`    | `$\lVert \vec{v} \rVert$`      | $\lVert \vec{v} \rVert$                    |
+| $\lceil x \rceil$              | `\lceil` … `\rceil`    | `$\lceil x \rceil$`            | $\lceil x \rceil$                          |
+| $\lfloor x \rfloor$            | `\lfloor` … `\rfloor$` | `$\lfloor x \rfloor$`          | $\lfloor x \rfloor$                        |
+| $\sum\limits_{i=1}^{n}$        | `\limits_{}^{}`        | `$\sum\limits_{i=1}^{n}$`      | $\sum\limits_{i=1}^{n}x_i$                 |
+| $\underset{k=1}\oplus$         | `\underset`            | `$\underset{k=1}\oplus$`       | $\underset{k=1}\oplus$                     |
+| $\overset{n}\oplus$            | `\overset`             | $\overset{n}\oplus$            | $\overset{n}\oplus$                        |
+| $\langle \rangle$              | `\langle \rangle`      | `$\langle g\rangle$`           | $\langle g\rangle$                         |
+| $\begin{pmatrix}\end{pmatrix}$ | `\begin{pmatrix}`      |                                | $$\begin{pmatrix}1&2\\2&3\\\end{pmatrix}$$ |
 
 ---
 
